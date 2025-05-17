@@ -7,8 +7,7 @@ const App = () => {
 
   const APP_ID = "d4329f4a";
   const APP_KEY = "215b531d923ebb36e9225659bb3de4f3";
-  const USER_ID = "your-user-id"; // ⚠️ Replace with your actual Edamam user ID
-
+  const USER_ID = "your-user-id"; 
   const submitHandler = async (e) => {
     e.preventDefault();
 
